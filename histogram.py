@@ -23,4 +23,4 @@ if image is not None:
 
 
 else:
-    print("Görüntü okunamadı. Lütfen dosya yolunu kontrol edin.")
+    print("Görüntü okunamıyor.Dosya yolunu kontrol edin.")
